@@ -1,0 +1,54 @@
+
+.logo{
+	float: left;
+	height: 50px;
+	
+	
+}
+
+.top-margin{
+	margin-top: 30px;
+}
+#myCarousel{
+	background-color: black;
+}
+
+.image{
+	background-color: grey;
+}
+
+.body {
+   background-image: url("logo.png");
+}
+
+h2{
+	text-align: center;
+}
+
+#leftbar{
+        float: left;
+    padding: 20px
+}
+#bottombar1{
+     float: left;
+    padding: 10px
+}
+#button1{
+	padding: 10px;
+}
+img{
+
+	padding: 10px;
+}
+#middlebar{
+	margin-top: 30px;}
+#footer
+	{
+    background-color: black;
+    float: left;
+   
+    }
+    p{
+    color: white
+    }
+    
